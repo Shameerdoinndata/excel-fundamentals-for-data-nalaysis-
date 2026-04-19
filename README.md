@@ -142,9 +142,6 @@ Raw Data → Cleaning → Validation → Transformation → Analysis → Insight
 6. Build pivot tables for insights
 
 ---
-
-## 🎥 Visual Learning (GIFs)
-
 ### 🧹 Data Cleaning in Action
 
 ![Data Cleaning GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
