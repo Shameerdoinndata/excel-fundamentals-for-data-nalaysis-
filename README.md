@@ -159,7 +159,7 @@ Raw Data → Cleaning → Validation → Transformation → Analysis → Insight
 
 ---
 
-## 💡 Why This Project Stands Out
+## 💡 Why you should choose This repo
 
 🚫 Not just theory
 ✅ Fully practical
